@@ -24,7 +24,7 @@ No Python installation required
 Installation and Running
 Option 1: Running the Python File
 
-Clone the repository:git clone https://github.com/USERNAME/rock-paper-scissors.git
+Clone the repository:git clone https://github.com/UoxFox/pyRochambeau.git
 
 
 Navigate to the project directory:cd rock-paper-scissors
@@ -57,7 +57,6 @@ README.md: Project documentation
 .gitignore: Excludes unnecessary files (e.g., scores.json, Python cache)
 LICENSE: License file (optional)
 
-Screenshot
 
 Developer
 Built by [UoxFox]
