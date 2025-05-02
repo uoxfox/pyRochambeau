@@ -27,11 +27,11 @@
 روش 1: اجرای فایل پایتون
 
 مخزن را کلون کنید:
-git clone https://github.com/USERNAME/rock-paper-scissors.git
+git clone https://github.com/UoxFox/pyRochambeau.git
 
 
 به پوشه پروژه بروید:
-cd rock-paper-scissors
+cd pyRochambeau
 
 
 برنامه را اجرا کنید:
@@ -64,6 +64,6 @@ LICENSE: فایل لایسنس (اختیاری)
 
 اسکرین‌شات
 توسعه‌دهنده
-ساخته‌شده توسط [نام شما]
+ساخته‌شده توسط [UoxFoxا]
 لایسنس
 این پروژه تحت لایسنس MIT منتشر شده است. برای جزئیات، فایل LICENSE را ببینید.
