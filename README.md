@@ -27,7 +27,7 @@ Option 1: Running the Python File
 Clone the repository:git clone https://github.com/UoxFox/pyRochambeau.git
 
 
-Navigate to the project directory:cd rock-paper-scissors
+Navigate to the project directory
 
 
 Run the game:python rps_game.py
