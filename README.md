@@ -55,7 +55,7 @@ rps_game.py: Main game code
 scores.json: File for storing scores (automatically created)
 README.md: Project documentation
 .gitignore: Excludes unnecessary files (e.g., scores.json, Python cache)
-LICENSE: License file (optional)
+LICENSE: Mit License
 
 
 Developer
