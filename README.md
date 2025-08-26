@@ -1,6 +1,6 @@
 mehran javed
 <img width="713" height="35" alt="image" src="https://github.com/user-attachments/assets/bf7f06ef-8a72-4c80-92cd-08a308abd9f4" />
-
+"shanbe sat 13" 
 Rock, Paper, Scissors Game
 A simple and engaging Rock, Paper, Scissors game built with Python and Tkinter, featuring a graphical user interface, score tracking, and game statistics.
 Features
